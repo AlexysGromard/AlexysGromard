@@ -1,5 +1,5 @@
 <!-- It's a GitHub ReadMe -->
-# Hi ! 👋
+# Hi ! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 ## Presentation 
 I'm 17 and I'm French 🇫🇷
 
