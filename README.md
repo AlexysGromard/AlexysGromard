@@ -9,6 +9,7 @@ Salut, je suis Alexys, passionné par l'informatique, l'automobile, l'aérospaci
 - 🖥️ **GO (GoLang):** Connaissance du langage Go pour le développement d'applications performantes.
 - 📱 **Kotlin:** Compétence dans le développement d'applications Android avec Kotlin et Java.
 - 📊 **SQL:** Expérience dans la manipulation et la gestion de bases de données avec SQL.
+- - 🐘 **PHP:** Connaissance du langage PHP pour le développement web côté serveur.
 - 🛠️ **Maintenance Réseau:** Compétences en maintenance et gestion de réseaux informatiques.
 - ➕ **Mathématiques:** Aptitude à appliquer des concepts mathématiques dans la résolution de problèmes techniques.
 - 📊 **Communication:** Bonnes compétences en communication, aussi bien à l'écrit qu'à l'oral.
@@ -17,7 +18,6 @@ Salut, je suis Alexys, passionné par l'informatique, l'automobile, l'aérospaci
 ## 🌱 En cours d'apprentissage
 
 - 🦀 **Rust:** Actuellement en train d'explorer et d'apprendre Rust pour le développement de systèmes performants.
-- 🐘 **PHP:** En train de découvrir les bases du langage PHP pour le développement web côté serveur.
 - 🍏 **Swift:** Débutant dans l'apprentissage de Swift pour la création d'applications iOS.
 
 ## 🤝 Collaboration
@@ -38,6 +38,6 @@ Salut, je suis Alexys, passionné par l'informatique, l'automobile, l'aérospaci
 ## 📌 Projets Notables
 
 - [WebNuggets](https://github.com/AlexysGromard/WebNuggets) - Une précieuse collection de composants d'interface pour booster votre développement web. 💎🚀
-- [iutStyleShop](https://github.com/AlexysGromard/iutStyleShop) - https://github.com/AlexysGromard/iutStyleShop
+- [iutStyleShop](https://github.com/AlexysGromard/iutStyleShop) - Une boutique en ligne élégante conçue pour illustrer les principes d'ergonomie web. Explorez, achetez, et découvrez une expérience de shopping optimale.
 
 N'hésitez pas à explorer mes projets ci-dessous et à me contacter pour toute collaboration ou question. Merci de votre visite !
