@@ -1,18 +1,41 @@
-<!-- It's a GitHub ReadMe -->
-# Hi ! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-I'm 19 and I'm French 🇫🇷
+# Bienvenue sur mon profil GitHub ! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-<!--
-**AlexysGromard/AlexysGromard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Salut, je suis Alexys, passionné par l'informatique, l'automobile, l'aérospacial et de la finance. Je suis étudiant basé à Nantes,FR.
 
-Here are some ideas to get you started:
+## 🚀 Compétences et Technologies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 **HTML/CSS/JavaScript:** Maîtrise des technologies front-end pour la création d'interfaces utilisateur interactives.
+- 🐍 **Python:** Expérience dans le développement avec Python, y compris la création de scripts.
+- 🖥️ **GO (GoLang):** Connaissance du langage Go pour le développement d'applications performantes.
+- 📱 **Kotlin:** Compétence dans le développement d'applications Android avec Kotlin et Java.
+- 📊 **SQL:** Expérience dans la manipulation et la gestion de bases de données avec SQL.
+- 🛠️ **Maintenance Réseau:** Compétences en maintenance et gestion de réseaux informatiques.
+- ➕ **Mathématiques:** Aptitude à appliquer des concepts mathématiques dans la résolution de problèmes techniques.
+- 📊 **Communication:** Bonnes compétences en communication, aussi bien à l'écrit qu'à l'oral.
+- 📈 **Gestion de Projet:** Expérience dans la gestion efficace de projets informatiques.
+
+## 🌱 En cours d'apprentissage
+
+- 🦀 **Rust:** Actuellement en train d'explorer et d'apprendre Rust pour le développement de systèmes performants.
+- 🐘 **PHP:** En train de découvrir les bases du langage PHP pour le développement web côté serveur.
+- 🍏 **Swift:** Débutant dans l'apprentissage de Swift pour la création d'applications iOS.
+
+## 🤝 Collaboration
+
+- 👯 Je suis ouvert à la collaboration sur des projets intéressants.
+
+## 🔗 Liens utiles
+
+- 🌐 **Portfolio:** [Portfolio](https://alexysgromard.github.io/portfolio/)
+- 💼 **LinkedIn:** [Alexys Gromard sur LinkedIn](https://www.linkedin.com/in/alexys-gromard/)
+
+## 📈 Statistiques GitHub
+
+![Statistiques GitHub](https://github-readme-stats.vercel.app/api?username=AlexysGromard&show_icons=true&theme=radical)
+
+## 📌 Projets Notables
+
+- [Nom du projet](lien_vers_le_projet) - Courte description du projet.
+
+N'hésitez pas à explorer mes projets ci-dessous et à me contacter pour toute collaboration ou question. Merci de votre visite !
+
