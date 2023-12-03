@@ -35,7 +35,8 @@ Salut, je suis Alexys, passionné par l'informatique, l'automobile, l'aérospaci
 
 ## 📌 Projets Notables
 
-- [Nom du projet](lien_vers_le_projet) - Courte description du projet.
+- [WebNuggets](https://github.com/AlexysGromard/WebNuggets) - Une précieuse collection de composants d'interface pour booster votre développement web. 💎🚀
+- [iutStyleShop](https://github.com/AlexysGromard/iutStyleShop) - https://github.com/AlexysGromard/iutStyleShop
 
 N'hésitez pas à explorer mes projets ci-dessous et à me contacter pour toute collaboration ou question. Merci de votre visite !
 
