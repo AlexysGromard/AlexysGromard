@@ -33,10 +33,11 @@ Salut, je suis Alexys, passionné par l'informatique, l'automobile, l'aérospaci
 
 ![Statistiques GitHub](https://github-readme-stats.vercel.app/api?username=AlexysGromard&show_icons=true&theme=radical)
 
+![Top Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexysGromard&layout=compact&theme=radical)
+
 ## 📌 Projets Notables
 
 - [WebNuggets](https://github.com/AlexysGromard/WebNuggets) - Une précieuse collection de composants d'interface pour booster votre développement web. 💎🚀
 - [iutStyleShop](https://github.com/AlexysGromard/iutStyleShop) - https://github.com/AlexysGromard/iutStyleShop
 
 N'hésitez pas à explorer mes projets ci-dessous et à me contacter pour toute collaboration ou question. Merci de votre visite !
-
