@@ -38,6 +38,6 @@ Hi, I'm Alexys, passionate about computer science, automotive, aerospace, and fi
 ## 📌 Notable Projects
 
 - [WebNuggets](https://github.com/AlexysGromard/WebNuggets) - A valuable collection of interface components to boost your web development. 💎🚀
-- [iutStyleShop](https://github.com/AlexysGromard/iutStyleShop) - An elegant online store designed to illustrate web ergonomics principles. Explore, shop, and enjoy an optimal shopping experience.
+- [iutStyleShop](https://github.com/AlexysGromard/iutStyleShop_V2) - An elegant online store designed to illustrate web ergonomics principles. Explore, shop, and enjoy an optimal shopping experience, with a database and backend implemented.
 
 Feel free to explore my projects below and contact me for any collaboration or questions. Thank you for visiting!
