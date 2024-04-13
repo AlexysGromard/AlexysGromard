@@ -5,6 +5,7 @@ Hi, I'm Alexys, passionate about computer science, automotive, aerospace, and fi
 ## 🚀 Skills and Technologies
 
 - 💻 **HTML/CSS/JavaScript:** Proficient in front-end technologies for creating interactive user interfaces.
+- 🖥️ **React:** Experience in developing web applications with React.
 - 🐍 **Python:** Experience in Python development, including script creation.
 - 🖥️ **GO (GoLang):** Knowledge of the Go language for developing efficient applications.
 - 📱 **Kotlin:** Proficiency in Android application development with Kotlin and Java.
@@ -39,5 +40,6 @@ Hi, I'm Alexys, passionate about computer science, automotive, aerospace, and fi
 
 - [WebNuggets](https://github.com/AlexysGromard/WebNuggets) - A valuable collection of interface components to boost your web development. 💎🚀
 - [iutStyleShop](https://github.com/AlexysGromard/iutStyleShop_V2) - An elegant online store designed to illustrate web ergonomics principles. Explore, shop, and enjoy an optimal shopping experience, with a database and backend implemented.
+- [NaoLibre](https://github.com/AlexysGromard/NaoLibre) - NaoLibre: A React web app for Naolibe users in Nantes to view transport info and report on vehicle fullness.
 
 Feel free to explore my projects below and contact me for any collaboration or questions. Thank you for visiting!
