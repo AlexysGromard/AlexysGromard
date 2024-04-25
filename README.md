@@ -9,7 +9,7 @@ Hi, I'm Alexys, passionate about computer science, automotive, aerospace, and fi
 - 🐍 **Python:** Experience in Python development, including script creation.
 - 🖥️ **GO (GoLang):** Knowledge of the Go language for developing efficient applications.
 - 📱 **Kotlin:** Proficiency in Android application development with Kotlin and Java.
-- 📊 **SQL:** Experience in manipulating and managing databases with SQL.
+- 📊 **SQL/NoSQL:** Experience in manipulating and managing databases with SQL or NoSQL (MongoDB).
 - 🐘 **PHP:** Familiarity with PHP for server-side web development.
 - 🛠️ **Network Maintenance:** Skills in maintaining and managing computer networks.
 - ➕ **Mathematics:** Ability to apply mathematical concepts in solving technical problems.
