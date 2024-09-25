@@ -43,3 +43,6 @@ Hi, I'm Alexys, passionate about computer science, automotive, aerospace, and fi
 - [NaoLibre](https://github.com/AlexysGromard/NaoLibre) - NaoLibre: A React web app for Naolibe users in Nantes to view transport info and report on vehicle fullness.
 
 Feel free to explore my projects below and contact me for any collaboration or questions. Thank you for visiting!
+
+<!-- Profil views counter -->
+![Profile Views](https://komarev.com/ghpvc/?username=AlexysGromard&color=blue)
