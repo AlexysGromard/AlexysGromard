@@ -30,11 +30,11 @@ Hi, I'm Alexys, passionate about computer science, automotive, aerospace, and fi
 - 🌐 **Portfolio:** [Portfolio](https://alexysgromard.github.io/portfolio/)
 - 💼 **LinkedIn:** [Alexys Gromard on LinkedIn](https://www.linkedin.com/in/alexys-gromard/)
 
-## 📈 GitHub Statistics
+<!-- ## 📈 GitHub Statistics
 
 ![GitHub Statistics](https://github-readme-stats.vercel.app/api?username=AlexysGromard&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexysGromard&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexysGromard&layout=compact&theme=radical) -->
 
 ## 📌 Notable Projects
 
