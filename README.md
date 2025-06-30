@@ -4,17 +4,11 @@ Hi, I'm Alexys, passionate about computer science, automotive, aerospace, and fi
 
 ## 🚀 Skills and Technologies
 
-- 💻 **HTML/CSS/JavaScript:** Proficient in front-end technologies for creating interactive user interfaces.
-- 🖥️ **React:** Experience in developing web applications with React.
-- 🐍 **Python:** Experience in Python development, including script creation.
-- 🖥️ **GO (GoLang):** Knowledge of the Go language for developing efficient applications.
-- 📱 **Kotlin:** Proficiency in Android application development with Kotlin and Java.
-- 📊 **SQL/NoSQL:** Experience in manipulating and managing databases with SQL or NoSQL (MongoDB).
-- 🐘 **PHP:** Familiarity with PHP for server-side web development.
-- 🛠️ **Network Maintenance:** Skills in maintaining and managing computer networks.
-- ➕ **Mathematics:** Ability to apply mathematical concepts in solving technical problems.
-- 📊 **Communication:** Good communication skills, both written and verbal.
-- 📈 **Project Management:** Experience in effectively managing IT projects.
+- 💻 **Front-End:** HTML, CSS, JavaScript, ReactJS  
+- 🐍 **Back-End & Scripting:** Python, PHP, Go  
+- 📱 **Mobile Development:** Kotlin, Java  
+- 🗃️ **Databases:** SQL, MongoDB  
+- 🛠️ **Networking:** Basic network setup and maintenance  
 
 ## 🌱 Currently Learning
 
