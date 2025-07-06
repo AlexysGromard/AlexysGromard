@@ -5,8 +5,8 @@ Hi, I'm Alexys, passionate about computer science, automotive, aerospace, and fi
 ## 🚀 Skills and Technologies
 
 - 💻 **Front-End:** HTML, CSS, JavaScript, ReactJS  
-- 🐍 **Back-End & Scripting:** Python, PHP, Go  
-- 📱 **Mobile Development:** Kotlin, Java  
+- 🐍 **Back-End & Scripting:** Python, NodeJS PHP, Go  
+- 📱 **Mobile Development:** Kotlin, Java, React Native  
 - 🗃️ **Databases:** SQL, MongoDB  
 - 🛠️ **Networking:** Basic network setup and maintenance  
 
