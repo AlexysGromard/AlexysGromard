@@ -1,6 +1,6 @@
-# Welcome to my GitHub profile! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Hi, I'm Alexys <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-Hi, I'm Alexys, passionate about computer science, automotive, aerospace, and finance. I am a student based in Nantes, FR.
+Passionate about coding, automotive, aerospace & finance | Student @ Polytech Nantes
 
 ## 🚀 Skills and Technologies
 
@@ -14,10 +14,6 @@ Hi, I'm Alexys, passionate about computer science, automotive, aerospace, and fi
 
 - 🦀 **Rust:** Currently exploring and learning Rust for developing high-performance systems.
 - 🍏 **Swift:** Beginner in learning Swift for iOS application development.
-
-## 🤝 Collaboration
-
-- 👯 I am open to collaboration on interesting projects.
 
 ## 🔗 Useful Links
 
