@@ -26,11 +26,11 @@ Passionate about coding, automotive, aerospace & finance | Student @ Polytech Na
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexysGromard&layout=compact&theme=radical) -->
 
-## 📌 Notable Projects
+<!-- ## 📌 Notable Projects
 
 - [WebNuggets](https://github.com/AlexysGromard/WebNuggets) - A valuable collection of interface components to boost your web development. 💎🚀
 - [iutStyleShop](https://github.com/AlexysGromard/iutStyleShop_V2) - An elegant online store designed to illustrate web ergonomics principles. Explore, shop, and enjoy an optimal shopping experience, with a database and backend implemented.
-- [NaoLibre](https://github.com/AlexysGromard/NaoLibre) - NaoLibre: A React web app for Naolibe users in Nantes to view transport info and report on vehicle fullness.
+- [NaoLibre](https://github.com/AlexysGromard/NaoLibre) - NaoLibre: A React web app for Naolibe users in Nantes to view transport info and report on vehicle fullness.  -->
 
 Feel free to explore my projects below and contact me for any collaboration or questions. Thank you for visiting!
 
